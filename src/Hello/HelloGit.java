@@ -5,5 +5,6 @@ public class HelloGit {
     {
         System.out.println("Hi Git! ^u^");
         System.out.println("Hello Git! ^u^");
+        System.out.println("Hello Git! ^u^");
     }
 }
